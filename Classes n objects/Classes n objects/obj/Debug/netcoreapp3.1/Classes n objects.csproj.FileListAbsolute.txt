@@ -1,0 +1,13 @@
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\bin\Debug\netcoreapp3.1\Classes n objects.exe
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\bin\Debug\netcoreapp3.1\Classes n objects.deps.json
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\bin\Debug\netcoreapp3.1\Classes n objects.runtimeconfig.json
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\bin\Debug\netcoreapp3.1\Classes n objects.runtimeconfig.dev.json
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\bin\Debug\netcoreapp3.1\Classes n objects.dll
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\bin\Debug\netcoreapp3.1\Classes n objects.pdb
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\obj\Debug\netcoreapp3.1\Classes n objects.csprojAssemblyReference.cache
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\obj\Debug\netcoreapp3.1\Classes n objects.AssemblyInfoInputs.cache
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\obj\Debug\netcoreapp3.1\Classes n objects.AssemblyInfo.cs
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\obj\Debug\netcoreapp3.1\Classes n objects.csproj.CoreCompileInputs.cache
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\obj\Debug\netcoreapp3.1\Classes n objects.dll
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\obj\Debug\netcoreapp3.1\Classes n objects.pdb
+C:\Users\Smith_Conner\Desktop\C#\Codecademy\Classes and objects\Classes n objects\Classes n objects\obj\Debug\netcoreapp3.1\Classes n objects.genruntimeconfig.cache
